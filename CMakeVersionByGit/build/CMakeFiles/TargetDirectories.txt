@@ -1,4 +1,0 @@
-/home/yoonki/workspace/VersionExample/build/CMakeFiles/rebuild_cache.dir
-/home/yoonki/workspace/VersionExample/build/CMakeFiles/edit_cache.dir
-/home/yoonki/workspace/VersionExample/build/CMakeFiles/version.dir
-/home/yoonki/workspace/VersionExample/build/CMakeFiles/GetGitRevesion.dir
