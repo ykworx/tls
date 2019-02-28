@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/version.dir/src/main.c.o  -o version -rdynamic 
