@@ -1,3 +1,1 @@
-#include "../include/common/version.h" //update as appropriate
-
 const char *version_string = "@GIT_REPO_VERSION@";
